@@ -1,0 +1,2 @@
+- React based website enabling librarians to manage a comprehensive database of clients, books, and payment information, while allowing clients to check out books, pay late fees, and update personal details
+- Utilized PostgreSQL for relational database management, ensuring efficient storage and retrieval, and Flask for backend request handling, enabling seamless integration with the frontend user interface
