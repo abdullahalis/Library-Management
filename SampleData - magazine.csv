@@ -1,0 +1,4 @@
+isbn,mag_name,publisher,mag_year,mag_month,num_copies,num_available
+12345678,sample 1,publisher 1,2024,4,5,5
+23456789,sample 2,publisher 2,2023,4,10,7
+34567890,sample 3,publisher 3,2024,4,4,1

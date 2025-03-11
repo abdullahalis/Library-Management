@@ -1,0 +1,4 @@
+journal_name,title,isbn,publisher,issue,article_year,article_number,num_copies,num_available
+science,science 101,12341234,science  pub,5,2024,1,15,12
+nature,nature 101,23452345,nature pub,10,2024,2,25,21
+medical,medical 101,34563456,medical pub,15,2024,3,20,10

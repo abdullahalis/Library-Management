@@ -1,0 +1,5 @@
+isbn,title,publisher,edition,book_year,num_pages,num_copies,num_available
+1111,first book,publisher A,first edition,2021,300,4,4
+1112,second book,publisher B,second edition,2022,400,4,3
+1113,third book,publisher C,third edition,2023,500,4,2
+1114,fourth book,publisher D,first edition,2024,50,5,1
